@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-eslint-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jechazelle/boilerplate-eslint-prettier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jechazelle/boilerplate-eslint-prettier/issues"
+  },
+  "homepage": "https://github.com/jechazelle/boilerplate-eslint-prettier#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
